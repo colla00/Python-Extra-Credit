@@ -1,2 +1,3 @@
 # Python-Extra-Credit
-Python Mitigation is a security vulnerability that affects the microprocessors allowing some malicious processes to read memory, even without authorization. According to ITNEXT, Python is increasingly becoming one of the most popular programming languages among developers. The relatively low number of Python security issues and user-friendliness give it an edge over other languages. An example of a Python Mitigation is if a process tries reading from unauthorized memory, the read instruction will be scheduled and pipelined by the CPU. Before the instruction can produce any output, the privilege check will complete elsewhere. In the case of an unauthorized read, the execution unit will be told that the instruction failed the privilege check.
+
+A Python function that calculates the hypotenuse of a triangle using Pythagorean Theorem
